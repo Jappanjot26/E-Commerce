@@ -17,7 +17,7 @@
 - python manage.py migrate : To include the migration to the DB (initially uses db.sqlite3)
 
 
-- python manage.py createsuperuser : To create a super user from terminal
+- python manage.py createsuperuser : To create a super user from terminal (Created admin/1234)
 
 <!-- Create a folder apps/ and sub-folder apps/core/ (python manage.py startapp core apps/core) -->
 - python manage.py startapp <name> <place> : Create more file inside <place>
